@@ -1,6 +1,8 @@
 <a href="https://gitlocalize.com/repo/6058/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/6058/whole_project/badge.svg" /> </a>
 ![Citadel](https://gitlocalize.com/repo/6058/whole_project/badge.svg)
 
+[url=https://gitlocalize.com/repo/6058/whole_project?utm_source=badge][img]https://gitlocalize.com/repo/6058/whole_project /badge.svg[/img][/url]
+
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
