@@ -3,6 +3,8 @@
 
 [url=https://gitlocalize.com/repo/6058/whole_project?utm_source=badge][img]https://gitlocalize.com/repo/6058/whole_project /badge.svg[/img][/url]
 
+[![gitlocalized ](https://gitlocalize.com/repo/6058/whole_project/badge.svg)](https://gitlocalize.com/repo/6058/whole_project?utm_source=badge)
+
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
